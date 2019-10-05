@@ -126,7 +126,7 @@ td
 
 td:hover
 {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 #trending
@@ -452,7 +452,7 @@ line
     padding: 1%;
     display: none;
     left: 22%;
-    border: 1px solid #000000;
+    border: 2px solid #000000;
     width: 50%;
     height: 570px;
     z-index: 300000;
